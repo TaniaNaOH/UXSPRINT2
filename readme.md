@@ -2,22 +2,22 @@
 **PROYECTO: SAVE SAVE THE CHILDREN**
 --------------------------------------
 **INTEGRANTES DEL SQUAD**
--Tania Sosa
+- Tania Sosa.
 UX Researcher
 
--Karina Quesada
+- Karina Quezada.
 UX Researcher
 
--Jazmin López
+- Jazmin López.
 UX Researcher
 
--Carmen Vega
+- Carmen Vega.
 UX Designer
 
--Adriana Dillarza
+- Adriana Dillarza.
 UX Designer
 
--Elzbeth Blanco
+- Elzbeth Blanco.
 Product  Owner
 
 Laboratoria Mexico 2018
@@ -28,6 +28,14 @@ Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **OPORTUNIDAD DE NEGOCIO**
+
+Una oportunidad de negocio se podría definir por tres ejes:
+
+- Un mercado potencial suficiente.
+- Una viabilidad técnica y económica demostrable.
+- Un equipo promotor capacitado.
+
+Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
 
 ![bisnescanvas](https://user-images.githubusercontent.com/32877064/37888538-48b65c78-3085-11e8-9a5f-e38b3c81f613.png)
 
@@ -54,15 +62,15 @@ La creación user persona es una técnica que consiste en elaborar una plantill
 
 La plantilla es apenas una sugerencia, pero recoge la mayor parte de las ideas importantes a desarrollar para cada personaje.
 
--Nombre y apodo: Una manera rápida de identificar y reconocer al personaje.
--Datos demográficos: Ayudan a clasificar al personaje dentro de un segmento de mercado.
--Descripción: Se trata de un párrafo breve que nos ayude a conocer al personaje.
--Objetivos: Buscamos aquellas necesidades del usuario que distinguen su comportamiento del resto.
+- Nombre y apodo: Una manera rápida de identificar y reconocer al personaje.
+- Datos demográficos: Ayudan a clasificar al personaje dentro de un segmento de mercado.
+- Descripción: Se trata de un párrafo breve que nos ayude a conocer al personaje.
+- Objetivos: Buscamos aquellas necesidades del usuario que distinguen su comportamiento del resto.
 
 ![userpablo](https://user-images.githubusercontent.com/32877064/37888935-4bf205ca-3087-11e8-853e-aeefea4a041c.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-*AlGO
+*ALGO
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------*
@@ -192,8 +200,6 @@ backlog
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 :shipit:
-► /play greatjob
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
