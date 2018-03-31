@@ -37,29 +37,45 @@ Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico 
 
 El mapa de empatía, es una poderosa herramienta para realizar una adecuada segmentación de nuestros clientes, con el objetivo de identificar realmente las características que nos permitirán realizar un mejor ajuste entre nuestro servicio y sus necesidades o intereses. Se trata, de conocer las siguientes variables:
 
-* Qué ve: cuál es su entorno y cómo es; qué amistades posee; qué propuestas le ofrece ya el mercado…
-* Qué dice y hace; cuál es su actitud en público, qué aspecto tiene; cómo se comporta, qué contradicciones tiene…
+- Qué ve: cuál es su entorno y cómo es; qué amistades posee; qué propuestas le ofrece ya el mercado…
+- Qué dice y hace; cuál es su actitud en público, qué aspecto tiene; cómo se comporta, qué contradicciones tiene…
 ° Qué oye: qué dicen (o le dicen) sus amistades, su familia, su personal, sus jefes o jefas, las * personas influyentes de su entorno; a través de qué canales multimedia le llega la información…
 - Qué piensa y siente: qué es lo que realmente le importa; cuáles son sus principales preocupaciones, inquietudes, sueños y aspiraciones.
  A partir de estas cuatro se obtienen otras dos:
 
-* Cuáles son los esfuerzos que realiza: a qué le tiene miedo; cuáles son las barreras y obstáculos que se encuentra para obtener lo que desea; con qué riesgos se tropieza en su camino y debe asumir; qué esfuerzos o riesgos no asumirá…
-+ Cuáles son los resultados, los beneficios que espera obtener: cuáles son sus necesidades o deseos reales; cómo mide el éxito, en función de qué; cómo podría alcanzar sus objetivos.
-
+- Cuáles son los esfuerzos que realiza: a qué le tiene miedo; cuáles son las barreras y obstáculos que se encuentra para obtener lo que desea; con qué riesgos se tropieza en su camino y debe asumir; qué esfuerzos o riesgos no asumirá…
+- Cuáles son los resultados, los beneficios que espera obtener: cuáles son sus necesidades o deseos reales; cómo mide el éxito, en función de qué; cómo podría alcanzar sus objetivos.
 ![empathy](https://user-images.githubusercontent.com/32877064/37888539-48d1625c-3085-11e8-87f6-3ee981a7dd05.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **CREACION DE USER PERSONA**
 
+La creación user persona es una técnica que consiste en elaborar una plantilla con la que tratamos de describir a los usuarios o grupos de usuarios de nuestro producto y sus necesidades. Con las user personas identificamos los personajes de nuestras historias de usuario y, al darles un nombre y asignarles una personalidad, nos es más fácil empatizar con el grupo de usuarios al que representa cada persona y ofrecer soluciones más adecuadas a sus necesidades.
+
+La plantilla es apenas una sugerencia, pero recoge la mayor parte de las ideas importantes a desarrollar para cada personaje.
+
+-Nombre y apodo: Una manera rápida de identificar y reconocer al personaje.
+-Datos demográficos: Ayudan a clasificar al personaje dentro de un segmento de mercado.
+-Descripción: Se trata de un párrafo breve que nos ayude a conocer al personaje.
+-Objetivos: Buscamos aquellas necesidades del usuario que distinguen su comportamiento del resto.
+
 ![userpablo](https://user-images.githubusercontent.com/32877064/37888935-4bf205ca-3087-11e8-853e-aeefea4a041c.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-**ALGO**
+*AlGO
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------*
 
 **JOURNEY MAP**
+
+El customer journey map, es una herramienta de Design Thinking que permite plasmar en un mapa, cada una de las etapas, interacciones, canales y elementos por los que atraviesa nuestro cliente desde un punto a otro de nuestro servicio.
+
+Ese punto inicial puede ser el primer contacto que ha tenido como cliente nuestro, o podemos considerar un marco más cerrado, si lo enfocamos a por ejemplo, la experiencia de compra según los tipos de clientes. Esto quiere decir que es posible realizar diferentes mapas de experiencia del cliente, realizar zoom en ciertas partes del proceso y así, conocer mejor cómo está viviendo el cliente la experiencia con nosotros.
+
+De la misma manera, podemos establecer el punto final, tan lejos como queramos, por ejemplo, hasta que perdemos a ese cliente, o dejarlo en una experiencia más cercana, por ejemplo, hasta que acaba realizando una compra.
+
+En cualquier caso, lo importante es seleccionar el marco donde poder estudiar al cliente y conocer las partes del proceso que le generan mayor valor, así como las que no le aportan nada.
 
 ![stcpablo](https://user-images.githubusercontent.com/32877064/37888960-6362a8ae-3087-11e8-93ed-01f8dccfb6a4.png)
 
@@ -91,7 +107,7 @@ Para los usuarios es importante sentir cómo impacta su donativo en la vida de l
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**METODOLOGÍAS EMPLEADAS PARA OBTENER INFORMACION SOBRE LA ORGANIZACION Y NUETROS USUARIOS**
+**METODOLOGÍAS EMPLEADAS PARA OBTENER INFORMACION SOBRE LA ORGANIZACION Y NUESTROS USUARIOS**
 
 INVESTIGACIÓN DE GABINETE
 SESIÓN DE PREGUNTAS Y RESPUESTAS A NIVEL GRUPAL CON PERSONAL DE LA ORGANIZACIÓN
@@ -176,7 +192,8 @@ backlog
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**IMAGENES**
+
 
 :shipit:
+► /play greatjob
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
