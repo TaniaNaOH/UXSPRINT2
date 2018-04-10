@@ -23,23 +23,23 @@ Product  Owner
 Laboratoria Mexico 2018
 5ta generación
 
-**OBJETIVO**
-# Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+ **OBJETIVO**
+ Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**OPORTUNIDAD DE NEGOCIO**
+ **OPORTUNIDAD DE NEGOCIO**
 
-#Una oportunidad de negocio se podría definir por tres ejes: <h1>
+ Una oportunidad de negocio se podría definir por tres ejes:
 
-#- Un mercado potencial suficiente.#
-#- Una viabilidad técnica y económica demostrable.
-#- Un equipo promotor capacitado.
+ - Un mercado potencial suficiente.#
+ - Una viabilidad técnica y económica demostrable.
+ - Un equipo promotor capacitado.
 
-#Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la #experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
+ Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la #experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
 
-##Para comprender mejor la naturaleza del desafío se elaboró un Business Canvas de Save The Children que nos permitiera identificar mejor los aspectos de negocio de la organización
+Para comprender mejor la naturaleza del desafío se elaboró un Business Canvas de Save The Children que nos permitiera identificar mejor los aspectos de negocio de la organización
 
 ![bisnescanvas](https://user-images.githubusercontent.com/32877064/37888538-48b65c78-3085-11e8-9a5f-e38b3c81f613.png)
 
@@ -92,14 +92,11 @@ En cualquier caso, lo importante es seleccionar el marco donde poder estudiar al
 **FUNNEL**
 
 Decidimos desarrollar un embudo de conversión enfocado en 4 puntos:
-Atraer donadores potenciales
-Convertir los visitantes en donadores
-Convertir los donadores en donadores recurrentes
-Convertir a todos los donadores en promotores de la causa para atraer nuevos donadores potenciales
+- Atraer donadores potenciales
+- Convertir los visitantes en donadores
+- Convertir los donadores en donadores recurrentes
+- Convertir a todos los donadores en promotores de la causa para atraer nuevos donadores potenciales
 design
-Por todo lo anterior nuestras propuestas de soluciones son:
-Rediseño de landing page
-Con un énfasis en el cambio del formulario, manejo positivo y optimista de las imágenes de los niños, información sobre el impacto de los donativos en sus vidas.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -126,8 +123,21 @@ DISEÑO Y LEVANTAMIENTO DE ENCUESTA DIRIGIDA AL PÚBLICO SEGMENTADO POR SAVE THE
 
 ![respencuesta](https://user-images.githubusercontent.com/32877064/37888542-491e59fe-3085-11e8-9b5a-225fea7768ed.png)
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**PESTEL**
+La ventaja que nos presentó el realizar este análisis es poder expandir nuestra visión del entorno en el que se mueve la organización, su alcance y también sus limitantes.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**SMART**
+
+Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objetivos smart que nos llevaran a situaciones donde pudieramos medir los resultados de nuestra propuesta de forma real y especifica.
+
+![smart](https://user-images.githubusercontent.com/32877064/37888543-49366cba-3085-11e8-938b-6f344702b6ae.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **CONCLUSIONES DE INVESTIGACION**
 
@@ -157,7 +167,29 @@ WIREFRAME APP PARA CELULAR.
 
 **PRESENTACION FINAL**
 
+Por todo lo anterior nuestras propuestas de soluciones son:
 
+- Redición del copy del anuncio en GoogleAds
+- Establecimiento de un sistema de diseño para todas las páginas
+- Rediseño de landing page con énfasis en el formato de formulario de donación haciendo su aparición    hasta que es invocado por el usuario a través de un botón y acortando el número de pasos para su llenado.
+- Mensaje instantaneo de agradecimiento al usuario una vez que ha concluido el proceso de donación.
+- Modificiación en el discurso de imágenes al cambiarlas por aquellas que muestren a los niños en  actitudes y actividades positivas dentro de un entorno mejorado gracias a los programas.
+Sintesis de la línea de tiempo de la historia de Save The Children.
+- Inclusión de testimoniales de donadores y beneficiarios.
+- Resalte de las empresas más importantes que respaldan actualmente a la organización.
+- Creación de de una app movil complementearia para el programa Defensores de la niñez con el objetivo de acelerar las donaciones de los usuarios recurrentes y promover entre ellos un sentimimiento de comunidad que los inspire e impulse a convertirse en portavoces de la causa y atraer nuevos donadores.
+
+**METODOLOGÍAS EMPLEADAS PARA OBTENER INFORMACION SOBRE LA ORGANIZACION Y NUESTROS USUARIOS**
+
+- Análisis SWOT
+- Análisis PESTEL
+- Investigación de gabinete
+- Sesión de preguntas y respuestas a nivel grupal con personal de la organización
+- Sesión de preguntas y respuestas como equipo con personal de la organización
+- Diseño y levantamiento de encuesta dirigida al público segmentado por save the children méxico
+- Mapa de empatía
+- Creación de user personas
+- Creación de customer journey map
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -189,19 +221,8 @@ Herramienta para diseño web Mobirise
 Herramienta para diseño y desarrollo de sistema de diseño UXPIN
 Enlace GoogleDrive con toda la documentación del proyecto
 Copia del repositorio Github de la página mostrada
-swot
-![swot](https://user-images.githubusercontent.com/32877064/37888544-49503db6-3085-11e8-973a-5ba87136cb54.png)
-
-pestel
-
-smart
-![smart](https://user-images.githubusercontent.com/32877064/37888543-49366cba-3085-11e8-938b-6f344702b6ae.png)
-
-
-backlog
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 :shipit:
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
