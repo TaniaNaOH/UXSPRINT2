@@ -24,18 +24,22 @@ Laboratoria Mexico 2018
 5ta generación
 
 **OBJETIVO**
-Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+#Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **OPORTUNIDAD DE NEGOCIO**
 
-Una oportunidad de negocio se podría definir por tres ejes:
+#Una oportunidad de negocio se podría definir por tres ejes:
 
-- Un mercado potencial suficiente.
-- Una viabilidad técnica y económica demostrable.
-- Un equipo promotor capacitado.
+#- Un mercado potencial suficiente.
+#- Una viabilidad técnica y económica demostrable.
+#- Un equipo promotor capacitado.
 
-Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
+#Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la #experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
+
+##Para comprender mejor la naturaleza del desafío se elaboró un Business Canvas de Save The Children que nos permitiera identificar mejor los aspectos de negocio de la organización
 
 ![bisnescanvas](https://user-images.githubusercontent.com/32877064/37888538-48b65c78-3085-11e8-9a5f-e38b3c81f613.png)
 
@@ -69,11 +73,7 @@ La plantilla es apenas una sugerencia, pero recoge la mayor parte de las ideas i
 
 ![userpablo](https://user-images.githubusercontent.com/32877064/37888935-4bf205ca-3087-11e8-853e-aeefea4a041c.png)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-*ALGO
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **JOURNEY MAP**
 
@@ -156,6 +156,8 @@ WIREFRAME APP PARA CELULAR.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PRESENTACION FINAL**
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
