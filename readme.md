@@ -24,16 +24,16 @@ Laboratoria Mexico 2018
 5ta generación
 
 **OBJETIVO**
-#Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+# Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **OPORTUNIDAD DE NEGOCIO**
 
-#Una oportunidad de negocio se podría definir por tres ejes:
+#Una oportunidad de negocio se podría definir por tres ejes: <h1>
 
-#- Un mercado potencial suficiente.
+#- Un mercado potencial suficiente.#
 #- Una viabilidad técnica y económica demostrable.
 #- Un equipo promotor capacitado.
 
