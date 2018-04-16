@@ -1,6 +1,6 @@
 --------------------------------------
 # PROYECTO: SAVE SAVE THE CHILDREN 
-# OBJETIVO Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+OBJETIVO Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
 
 --------------------------------------
 **INTEGRANTES DEL SQUAD**
