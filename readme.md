@@ -1,5 +1,8 @@
 --------------------------------------
-**PROYECTO: SAVE SAVE THE CHILDREN**
+# PROYECTO: SAVE SAVE THE CHILDREN 
+## **OBJETIVO**
+ Convertir a los usuarios pagados que visitan la pagina Save The Children Mexico en donantes recurrentes, mediante la optimizacion del journey de donativo.
+
 --------------------------------------
 **INTEGRANTES DEL SQUAD**
 - Tania Sosa.
@@ -33,11 +36,11 @@ Laboratoria Mexico 2018
 
  Una oportunidad de negocio se podría definir por tres ejes:
 
- - Un mercado potencial suficiente.#
+ - Un mercado potencial suficiente.
  - Una viabilidad técnica y económica demostrable.
  - Un equipo promotor capacitado.
 
- Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la #experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
+ Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
 
 Para comprender mejor la naturaleza del desafío se elaboró un Business Canvas de Save The Children que nos permitiera identificar mejor los aspectos de negocio de la organización
 
